@@ -18,5 +18,16 @@
     "@discordjs/builders": "^0.12.0",
     "@discordjs/rest": "^0.3.0",
     "discord-api-types": "^0.31.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/birajrai/aternosdiscord.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/birajrai/aternosdiscord/issues"
+  },
+  "homepage": "https://github.com/birajrai/aternosdiscord#readme"
 }
